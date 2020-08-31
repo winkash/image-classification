@@ -1,0 +1,1 @@
+from custom_pickle import DEFAULT_PICKLE_NAME, register_pickle

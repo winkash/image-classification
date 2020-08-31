@@ -1,0 +1,2 @@
+from static_video_classifier_ff import StaticVideoClassifierFlowFactory
+from inject import StaticVideoClassifierInjector
